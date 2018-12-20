@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="example.lyw.com.module2">
+
+    <application>
+
+        <activity android:name=".filter.JumpActivity"
+            android:theme="@android:style/Theme.Translucent">
+            <!--<intent-filter>-->
+            <!--<data-->
+            <!--android:host="m.lyw.com"-->
+            <!--android:scheme="arouter"/>-->
+            <!--<action android:name="android.intent.action.VIEW"/>-->
+
+            <!--<category android:name="android.intent.category.DEFAULT"/>-->
+            <!--<category android:name="android.intent.category.BROWSABLE"/>-->
+            <!--</intent-filter>-->
+
+            <!--&lt;!&ndash; App Links &ndash;&gt;-->
+            <!--<intent-filter android:autoVerify="true">-->
+            <!--<action android:name="android.intent.action.VIEW"/>-->
+
+            <!--<category android:name="android.intent.category.DEFAULT"/>-->
+            <!--<category android:name="android.intent.category.BROWSABLE"/>-->
+
+            <!--<data-->
+            <!--android:host="m.lyw.com"-->
+            <!--android:scheme="http"/>-->
+            <!--<data-->
+            <!--android:host="m.lyw.com"-->
+            <!--android:scheme="https"/>-->
+            <!--</intent-filter>-->
+        </activity>
+        <activity android:name=".Module21Activity"
+            android:taskAffinity="example.lyw.com.module2"/>
+        <activity android:name=".Module22Activity"
+            android:taskAffinity="example.lyw.com.module2"/>
+        <activity android:name=".Module23Activity"
+            android:taskAffinity="example.lyw.com.module2"/>
+    </application>
+
+</manifest>

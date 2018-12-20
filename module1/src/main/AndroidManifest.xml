@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="example.lyw.com.module1">
+
+    <application>
+        <activity android:name=".Module11Activity" />
+        <activity android:name=".Module12Activity" />
+        <activity android:name=".Module13Activity"></activity>
+    </application>
+
+</manifest>

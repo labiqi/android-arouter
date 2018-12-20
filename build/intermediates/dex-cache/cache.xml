@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/lcq/ifc-xf-android-longrouter/module1/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="547614e8fad0d06bcceb68706655bafd2afa34d7">
+        <dex dex="/Users/lcq/ifc-xf-android-longrouter/app/build/intermediates/pre-dexed/debug/classes_b8443ed3515e55a67673fae339f73631a830d721.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lcq/ifc-xf-android-longrouter/module2/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="37beac83be56ffcbaa9bc29cda0158e8f31f6fcf">
+        <dex dex="/Users/lcq/ifc-xf-android-longrouter/app/build/intermediates/pre-dexed/debug/classes_d448695d52fb04e471d39fa9e03aaa60d928b3cd.jar" />
+    </item>
+
+</items>
