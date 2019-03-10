@@ -1,0 +1,2 @@
+# liaochuanqi
+根据阿里巴巴arouter框架再重新封装一层拦截器，实现android页面跳转的长路由返回问题 
